@@ -1,6 +1,6 @@
  // Your web app's Firebase configuration
  const firebaseConfig = {
-    apiKey: "AIzaSyB_hlHBSNLYMNUVx4zJhb-5UzdUpZn3ahI",
+    // apiKey: "AIzaSyB_hlHBSNLYMNUVx4zJhb-5UzdUpZn3ahI",
     authDomain: "form-for-ecell.firebaseapp.com",
     databaseURL: "https://form-for-ecell-default-rtdb.firebaseio.com",
     projectId: "form-for-ecell",
